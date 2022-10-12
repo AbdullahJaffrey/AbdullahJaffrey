@@ -1,4 +1,4 @@
-# Hi folks, and welcome to my GitHub account.👋 
+# Welcome to my GitHub account.👋 
 
 
 - 👋 Hi, I’m Abdullah Jaffrey [facebook] !!
@@ -84,10 +84,10 @@
 
 ### Connect with me:
 
-[facebook]: https://www.facebook.com/Abdullah.Ahmed.j.52035
-[twitter]: https://twitter.com/AbdullahJaffery
-[instagram]: https://www.instagram.com/abdullah.ahmed.j.52035/
-[github]: https://github.com/AbdullahJaffrey
+###### Facebook: [facebook]: https://www.facebook.com/Abdullah.Ahmed.j.52035
+###### Twitter: [twitter]: https://twitter.com/AbdullahJaffery
+###### InstaGram: [instagram]: https://www.instagram.com/abdullah.ahmed.j.52035/
+###### Github: [github]: https://github.com/AbdullahJaffrey
 
 
 That's all from me!
