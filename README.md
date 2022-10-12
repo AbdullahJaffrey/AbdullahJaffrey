@@ -24,6 +24,9 @@
 
 <img align="left" alt="Bootstrap5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" /> 
 
+<img align="left" alt="Tailwind CSS" width="56px" src="https://miro.medium.com/max/712/1*vJQobI4oS3MmpTWqerBcKw.png" style="padding-right:10px;" />
+
+
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -33,13 +36,6 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
-
-<img align="left" alt="Tailwind CSS" width="26px" src="https://miro.medium.com/max/712/1*vJQobI4oS3MmpTWqerBcKw.png" style="padding-right:10px;" />
-
-
-
-###### Tailwind CSS 🌊 
 
 <br />
 
