@@ -1,11 +1,7 @@
-# Hi folks, My name is @AbdullahJaffrey [facebook], and welcome to my GitHub account.👋 
+# Hi folks, and welcome to my GitHub account.👋 
 
 
-
-
-## Hi, There !!
-
-- 👋 Hi, I’m [AbdullahJaffrey] [github] !!
+- 👋 Hi, I’m Abdullah Jaffrey [facebook] !!
 
 - 🌱 Currently, I'm studying data science and front-end-related programming..
 
