@@ -1,7 +1,7 @@
 # Welcome to my GitHub account.👋 
 
 
-- 👋 Hi, I’m Abdullah Jaffrey [facebook] !!
+- 👋 Hi, I’m Abdullah Jaffrey !!
 
 - 🌱 Currently, I'm studying data science and front-end-related programming..
 
@@ -84,10 +84,10 @@
 
 ### Connect with me:
 
-###### Facebook: [facebook]: https://www.facebook.com/Abdullah.Ahmed.j.52035
-###### Twitter: [twitter]: https://twitter.com/AbdullahJaffery
-###### InstaGram: [instagram]: https://www.instagram.com/abdullah.ahmed.j.52035/
-###### Github: [github]: https://github.com/AbdullahJaffrey
+###### Facebook: https://www.facebook.com/Abdullah.Ahmed.j.52035
+###### Twitter: https://twitter.com/AbdullahJaffery
+###### InstaGram: https://www.instagram.com/abdullah.ahmed.j.52035/
+###### Github: https://github.com/AbdullahJaffrey
 
 <br />
 
