@@ -2,13 +2,13 @@
 
 <table width="100%"> 
 <tr>
-<td width="75%">
+<td width="35%">
   
 <img src="https://scatterpie.io/wp-content/uploads/2020/08/Data-report-4.gif" width="100%" height="100%"/>
 
 </td>
 
-<td width="25%">
+<td width="65%">
 
 - 👋 Hi, I’m Abdullah Jaffrey !!
 
