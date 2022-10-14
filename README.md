@@ -1,5 +1,7 @@
 # Welcome to my GitHub account.👋 
 
+<img src="https://scatterpie.io/wp-content/uploads/2020/08/Data-report-4.gif" width="auto-fit" height="auto-fit" />
+
 - 👋 Hi, I’m Abdullah Jaffrey !!
 
 - 🌱 Currently, I'm studying data science and front-end-related programming..
@@ -9,8 +11,6 @@
 - 💞️ I enjoy travelling and meeting new people and discovering new places ...
 
 - 📫 How to reach me: Through my Facebook ID, you can reach me at any time ...
-
-<img src="https://scatterpie.io/wp-content/uploads/2020/08/Data-report-4.gif" width="auto-fit" height="auto-fit" />
 
 
 ## Languages and Tools:
