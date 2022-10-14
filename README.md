@@ -1,6 +1,8 @@
 # Welcome to my GitHub account.👋 
 
+<div class="col-md-12 content">
 
+<div class="col-md-6 gitcontent">
 - 👋 Hi, I’m Abdullah Jaffrey !!
 
 - 🌱 Currently, I'm studying data science and front-end-related programming..
@@ -11,6 +13,15 @@
 
 - 📫 How to reach me: Through my Facebook ID, you can reach me at any time ...
 
+</div>
+
+<div class="col-md-6 gitcontentimg">
+
+<img src="https://scatterpie.io/wp-content/uploads/2020/08/Data-report-4.gif" width="100%" height="auto-fit" />
+
+</div>
+
+</div>
 
 ## Languages and Tools:
 
@@ -36,6 +47,8 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+<br />
 
 <br />
 
