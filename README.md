@@ -4,7 +4,7 @@
 <tr>
 <td width="50%">
   
-<img src="https://scatterpie.io/wp-content/uploads/2020/08/Data-report-4.gif" width="auto-fit" height="auto-fit"/>
+<img src="https://scatterpie.io/wp-content/uploads/2020/08/Data-report-4.gif" width="100%" height="100%"/>
 
 </td>
 
