@@ -4,9 +4,10 @@
 <tr>
 <td width="50%">
   
-<img src="https://scatterpie.io/wp-content/uploads/2020/08/Data-report-4.gif" width="auto-fit" height="450px"/>
+<img src="https://scatterpie.io/wp-content/uploads/2020/08/Data-report-4.gif" width="auto-fit" height="auto-fit"/>
 
 </td>
+
 <td width="50%">
 
 - 👋 Hi, I’m Abdullah Jaffrey !!
