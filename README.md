@@ -10,7 +10,9 @@
 
 <td width="65%">
 
-- 👋 Hi, I’m Abdullah Jaffrey !!
+- 👋  Hi, I’m *Abdullah Jaffrey* !!
+
+- `print(“Nice to meet you!”) `
 
 - 🌱 Currently, I'm studying data science and front-end-related programming..
 
@@ -19,6 +21,9 @@
 - 💞️ I enjoy travelling and meeting new people and discovering new places ...
 
 - 📫 How to reach me: Through my Facebook ID, you can reach me at any time ...
+
+
+> You only live once, but if you do it right, once is enough! <br /> ~ Mae West
 
 </td>
 </table>
@@ -89,7 +94,7 @@
 
 ####  Extra:
 
-###### Assembly x86, Linux
+###### Assembly x86, Linux, Markdown Language
 
 <br />
 <br />
