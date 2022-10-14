@@ -1,7 +1,13 @@
 # Welcome to my GitHub account.👋 
 
-
+<table width="100%"> 
+<tr>
+<td width="50%">
+  
 <img src="https://scatterpie.io/wp-content/uploads/2020/08/Data-report-4.gif" width="auto-fit" height="450px"/>
+
+</td>
+<td width="50%">
 
 - 👋 Hi, I’m Abdullah Jaffrey !!
 
@@ -12,6 +18,9 @@
 - 💞️ I enjoy travelling and meeting new people and discovering new places ...
 
 - 📫 How to reach me: Through my Facebook ID, you can reach me at any time ...
+
+</td>
+</table>
 
 
 ## Languages and Tools:
