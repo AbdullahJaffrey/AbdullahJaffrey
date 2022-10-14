@@ -95,7 +95,7 @@
 
 <br />
 
-&nbsp; <br> [![Spotify](https://open.spotify.com/playlist/37i9dQZF1E35CKsUPcJDGY?si=e85bd6eb794f497d)](https://open.spotify.com/user/31v6yhgkoah6gp56bhdgpaeziw7y)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31v6yhgkoah6gp56bhdgpaeziw7y)
 
 That's all from me!
 
