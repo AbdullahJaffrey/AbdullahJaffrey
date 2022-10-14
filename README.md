@@ -1,6 +1,7 @@
 # Welcome to my GitHub account.👋 
 
-<img src="https://scatterpie.io/wp-content/uploads/2020/08/Data-report-4.gif" style="align: center" width="auto-fit" height="300px" />
+<img src="https://scatterpie.io/wp-content/uploads/2020/08/Data-report-4.gif" width="auto-fit" height="450px" grid-template-columns= "repeat( auto-fit, minmax(450px, 1fr)" );
+/>
 
 - 👋 Hi, I’m Abdullah Jaffrey !!
 
