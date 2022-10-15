@@ -34,25 +34,25 @@
 
 #### Front-End Development:
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://html.spec.whatwg.org/)
 
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
-
-<img align="left" alt="Bootstrap5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" /> 
-
-<img align="left" alt="Tailwind CSS" width="56px" src="https://miro.medium.com/max/712/1*vJQobI4oS3MmpTWqerBcKw.png" style="padding-right:10px;" />
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://www.w3.org/TR/CSS/#css)
 
 
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="Bootstrap5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />](https://getbootstrap.com/)
 
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="Tailwind CSS" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:10px;" />](https://tailwindcss.com/)
 
-<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://sass-lang.com/)
 
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/)
+
+[<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />](https://flask.palletsprojects.com/en/2.2.x/)
+
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
+
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/)
 
 <br />
 
@@ -60,28 +60,27 @@
 
 #### Back-End Development:
 
-<img align="left" alt="Python3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="Python3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/)
 
-<img align="left" alt="Php4" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="Php4" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />](https://www.php.net/)
 
 
 <br />
 
 #### Database:
 
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.iso.org/standard/63555.html)
 
 <br />
 
 #### Data Science:
 
-<img align="left" alt="Python3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="Python3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/)
+
+[<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />](https://numpy.org/)
 
 
-<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
-
-
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />](https://pandas.pydata.org/)
 
 ###### Matplotlib, Seaborn, Plotly, Scikit-Learn, Pycaret, Atoti, Bamboolib, Mito
 
@@ -110,7 +109,47 @@
 
 <br />
 
+<table width="100%"> 
+
+<tr>
+
+<td width="50%">
+
+
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31v6yhgkoah6gp56bhdgpaeziw7y)
+
+
+</td>
+
+
+<td width='50%'>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbdullahJaffrey&background_color=0d1117&border_color=ffffff" alt="AbdullahJaffrey" />
+
+</td>
+</tr>
+</table>
+
+<br />
+
+
+<table width="100%"> 
+<tr>
+<td width="50%">
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdullahJaffrey&theme=dark)](https://git.io/streak-stats)
+
+
+</td>
+
+<td width="50%">
+
+[![Abdullah Jaffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahJaffrey&theme=dark)](https://github.com/AbdullahJaffrey/github-readme-stats)
+</td>
+</tr>
+</table>
+<br />
 
 That's all from me!
 
