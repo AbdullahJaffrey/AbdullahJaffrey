@@ -136,6 +136,9 @@
 <tr>
 <td width="33%">
 
+<br />
+
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdullahJaffrey&theme=dark)](https://git.io/streak-stats)
 
@@ -143,17 +146,18 @@
 </td>
 
 <td width="34%">
+<br />
 
 [![Abdullah Jaffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahJaffrey&theme=dark)](https://github.com/AbdullahJaffrey/github-readme-stats)
 </td>
 
+
+
 <td width="33%">
 
-<img align="end" width='auto-fit' src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahJaffrey&theme=dark&show_icons=true&locale=en&layout=compact" alt="AbdullahJaffrey" />
-
+&nbsp;<img height="auto-fit" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahJaffrey&theme=dark&show_icons=true&locale=en&layout=compact" alt="AbdullahJaffrey" />
 </td>
-  
-</tr>
+</ tr>
 </table>
 <br />
 
