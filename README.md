@@ -39,7 +39,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://www.w3.org/TR/CSS/#css)
 
 
-[<img align="left" alt="Bootstrap5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />](https://getbootstrap.com/)
+<!-- [<img align="left" alt="Bootstrap5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />](https://getbootstrap.com/)  -->
 
 [<img align="left" alt="Tailwind CSS" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:10px;" />](https://tailwindcss.com/)
 
@@ -62,7 +62,7 @@
 
 [<img align="left" alt="Python3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/)
 
-[<img align="left" alt="Php4" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />](https://www.php.net/)
+<!-- [<img align="left" alt="Php4" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />](https://www.php.net/) -->
 
 
 <br />
@@ -82,13 +82,15 @@
 
 [<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />](https://pandas.pydata.org/)
 
-###### Matplotlib, Seaborn, Plotly, Scikit-Learn, Pycaret, Atoti, Bamboolib, Mito
+###### Matplotlib, Seaborn, Plotly, Scikit-Learn, Keras, Pycaret, Atoti, Bamboolib, Mito
 
 <br />
 
 #### Data Visualization Tools:
 
-###### Power BI and Excel
+###### Power BI 
+
+<! -- and Excel -->
 
 
 ####  Extra:
