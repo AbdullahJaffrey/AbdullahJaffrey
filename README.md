@@ -88,9 +88,7 @@
 
 #### Data Visualization Tools:
 
-###### Power BI 
-
-<! -- and Excel -->
+###### Power BI <! -- and Excel -->
 
 
 ####  Extra:
