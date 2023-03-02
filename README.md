@@ -82,18 +82,18 @@
 
 [<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />](https://pandas.pydata.org/)
 
-###### Matplotlib, Seaborn, Plotly, Scikit-Learn, Keras, Pycaret, Atoti, Bamboolib, Mito
+###### Matplotlib, Seaborn, Plotly, Scikit-Learn, Keras, <!-- Pycaret, Atoti, Bamboolib, Mito -->
 
 <br />
 
 #### Data Visualization Tools:
 
-###### Power BI <! -- and Excel -->
+###### Power BI <!-- and Excel -->
 
 
 ####  Extra:
 
-###### Assembly x86, Linux, Markdown Language
+###### Assembly x86 masm, Linux, Markdown Language
 
 <br />
 <br />
