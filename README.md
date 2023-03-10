@@ -102,10 +102,19 @@
 
 ### Connect with me:
 
-###### Facebook: https://www.facebook.com/Abdullah.Ahmed.j.52035
+<!-- ###### Facebook: https://www.facebook.com/Abdullah.Ahmed.j.52035
 ###### Twitter: https://twitter.com/AbdullahJaffery
 ###### InstaGram: https://www.instagram.com/abdullah.ahmed.j.52035/
-###### Github: https://github.com/AbdullahJaffrey
+###### Github: https://github.com/AbdullahJaffrey -->
+
+[<img align="left" alt="Facebook" width="26px" src="https://www.vectorlogo.zone/logos/messenger/messenger-ar21.svg" style="padding-right:10px;" />](https://www.facebook.com/Abdullah.Ahmed.j.52035)
+
+[<img align="left" alt="Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" style="padding-right:10px;" />](https://twitter.com/AbdullahJaffery)
+
+[<img align="left" alt="InstaGram" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" style="padding-right:10px;" />]( https://www.instagram.com/abdullah.ahmed.j.52035/)
+
+[<img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" style="padding-right:10px;" />](https://github.com/AbdullahJaffrey)
+
 
 <br />
 
