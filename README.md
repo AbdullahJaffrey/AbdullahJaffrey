@@ -88,13 +88,8 @@
 
 ####  Extra:
 
-###### Assembly x86 masm, Markdown Language
+###### Assembly x86 masm, Markdown Language.
 
-
-<br />
-<br />
-
----
 
 ### Connect with me:
 
