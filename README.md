@@ -38,11 +38,7 @@
 
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://www.w3.org/TR/CSS/#css)
 
-
-<!-- [<img align="left" alt="Bootstrap5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />](https://getbootstrap.com/)  -->
-
 [<img align="left" alt="Tailwind CSS" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:10px;" />](https://tailwindcss.com/)
-
 
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://sass-lang.com/)
 
@@ -62,8 +58,6 @@
 
 [<img align="left" alt="Python3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/)
 
-<!-- [<img align="left" alt="Php4" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />](https://www.php.net/) -->
-
 
 <br />
 
@@ -82,18 +76,20 @@
 
 [<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />](https://pandas.pydata.org/)
 
-###### Matplotlib, Seaborn, Plotly, Scikit-Learn, Keras, <!-- Pycaret, Atoti, Bamboolib, Mito --> NLTK.
+###### Matplotlib, Seaborn, Plotly, Scikit-Learn, Keras, NLTK and many more.
 
 <br />
 
 #### Data Visualization Tools:
 
-###### Power BI <!-- and Excel -->
+[<img align="left" alt="PowerBI" width="80px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" style="padding-right:10px;" />](https://powerbi.microsoft.com/en-au/)
 
+<br />
 
 ####  Extra:
 
-###### Assembly x86 masm, Linux, Markdown Language
+###### Assembly x86 masm, Markdown Language
+
 
 <br />
 <br />
@@ -102,23 +98,18 @@
 
 ### Connect with me:
 
-<!-- ###### Facebook: https://www.facebook.com/Abdullah.Ahmed.j.52035
-###### Twitter: https://twitter.com/AbdullahJaffery
-###### InstaGram: https://www.instagram.com/abdullah.ahmed.j.52035/
-###### Github: https://github.com/AbdullahJaffrey -->
+[<img align="left" alt="Facebook" width="126px" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" style="padding-top:500px; " />](https://www.facebook.com/Abdullah.Ahmed.j.52035)
 
-[<img align="left" alt="Facebook" width="26px" src="https://www.vectorlogo.zone/logos/messenger/messenger-ar21.svg" style="padding-right:10px;" />](https://www.facebook.com/Abdullah.Ahmed.j.52035)
+[<img align="left" alt="Twitter" width="126px" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" style="padding:1px;" />](https://twitter.com/AbdullahJaffery)
 
-[<img align="left" alt="Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" style="padding-right:10px;" />](https://twitter.com/AbdullahJaffery)
+[<img align="left" alt="InstaGram" width="126px" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" style="padding: 1px;" />]( https://www.instagram.com/abdullah.ahmed.j.52035/)
 
-[<img align="left" alt="InstaGram" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" style="padding-right:10px;" />]( https://www.instagram.com/abdullah.ahmed.j.52035/)
-
-[<img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" style="padding-right:10px;" />](https://github.com/AbdullahJaffrey)
+[<img align="left" alt="Github" width="126px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" style="padding:1px;" />](https://github.com/AbdullahJaffrey)
 
 
 <br />
 
-<table width="100%"> 
+<table width="100%" style="border:none;" > 
 
 <tr>
 
