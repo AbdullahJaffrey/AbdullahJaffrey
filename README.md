@@ -4,11 +4,13 @@
 <tr>
 <td width="35%">
   
-<img src="https://scatterpie.io/wp-content/uploads/2020/08/Data-report-4.gif" width="100%" height="100%"/>
+<img src="1.jpg" width="100%" height="100%"/>
 
 </td>
 
 <td width="65%">
+
+`Indeed, We created humans in the best form! ❤ (Surah At-Tin Verse 4)`
 
 - 👋  Hi, I’m *Abdullah Jaffrey* !!
 
@@ -24,6 +26,7 @@
 
 
 > You only live once, but if you do it right, once is enough! <br /> ~ Mae West
+
 
 </td>
 </table>
