@@ -1,18 +1,15 @@
-# Welcome to my GitHub account.👋 
 
 <table width="100%"> 
 <tr>
-<td width="35%">
+<td width="25%">
   
 <img src="1.jpg" width="100%" height="100%"/>
 
 </td>
 
-<td width="65%">
+<td width="75%">
 
-`Indeed, We created humans in the best form! ❤ (Surah At-Tin Verse 4)`
-
-- 👋  Hi, I’m *Abdullah Jaffrey* !!
+- 👋  Hi, I’m *Abdullah Jaffrey* !! Welcome to my Github Account !!
 
 - `print(“Nice to meet you!”) `
 
