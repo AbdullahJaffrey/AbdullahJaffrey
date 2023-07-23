@@ -1,13 +1,13 @@
 
 <table width="100%"> 
 <tr>
-<td width="25%">
+<td width="50%">
   
 <img src="1.jpg" width="100%" height="100%"/>
 
 </td>
 
-<td width="75%">
+<td width="50%">
 
 - 👋  Hi, I’m *Abdullah Jaffrey* !! Welcome to my Github Account !!
 
